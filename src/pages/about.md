@@ -3,11 +3,17 @@ title: "About"
 description: "Review feature info and customization details."
 ---
 
-## Intro to Jumpstart
+## Introducing
 
-This jumpstart is intended to be _just enough_ to be a functional site/blog using 11ty, and also to introduce essential 11ty features.
+If your message is not expressed clearly, it may never reach the desired audience.
 
-[**Review the "Quick Start"**](/#quickstart) on the home page for how to get this starter up and running for your project.
+Let us look after the presentation of the idea so you can achieve the success that your work deserves.
+
+We offer a personal service, allowing us to develop an understanding of your needs and to build a strategy to reach the desired goal. We tailor our plan depending on the project, providing an appropriate style and tone for each client.
+
+We offer services of translation from Portuguese to English, and English content (re)writing of websites, blog posts, documentation, academic papers, leaflets, flyers, brochures and much more …
+
+We guarantee quality and confidentiality at an affordable price.
 
 ### Colophon
 

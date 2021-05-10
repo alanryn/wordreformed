@@ -11,7 +11,6 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(socialImages);
   eleventyConfig.addPlugin(syntaxHighlight);
   eleventyConfig.addPlugin(pluginRss);
-
   eleventyConfig.addWatchTarget("./src/sass/");
 
   eleventyConfig.addPassthroughCopy("./src/css");
